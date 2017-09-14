@@ -1,2 +1,7 @@
 # hello-world
-write a short description
+this is my short description
+
+this is sample changes
+over here and here
+and over there
+fin
